@@ -3,7 +3,7 @@
 title: Teddy Alexandre
 
 # Name pronunciation (optional)
-# name_pronunciation: Teddy Alexandre
+name_pronunciation: Teddy Alexandre
 
 # Full name (for SEO)
 first_name: Teddy

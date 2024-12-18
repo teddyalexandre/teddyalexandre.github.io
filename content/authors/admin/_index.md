@@ -101,7 +101,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - name: Python
         description: ''
@@ -111,10 +111,6 @@ skills:
         description: ''
         percent: 75
         icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 80
-        icon: devicon/pytorch
       - name: SQL
         description: ''
         percent: 75
@@ -127,6 +123,55 @@ skills:
       - name: HTML/CSS
         description: ''
         percent: 70
+      - name: Jupyter
+        description: ''
+        percent: 90
+      - name: Slurm
+        description: ''
+        percent: 75
+      - name: Docker
+        description: ''
+        percent: 70
+  - name: Libraries
+    items:
+      - name: PyTorch
+        description: ''
+        percent: 80
+        icon: devicon/pytorch
+      - name: PyTorch Lightning
+        description: ''
+        percent: 80
+      - name: Tensorflow
+        description: ''
+        percent: 80
+      - name: Pandas
+        description: ''
+        percent: 80
+      - name: Numpy
+        description: ''
+        percent: 85
+      - name: Matplotlib
+        description: ''
+        percent: 90
+      - name: PySpark
+        description: ''
+        percent: 80
+      - name: Scipy
+        description: ''
+        percent: 80
+      - name: Plotly
+        description: ''
+        percent: 80
+      - name: Seaborn
+        description: ''
+        percent: 80
+      - name: Tensorboard
+        description: ''
+        percent: 90
+      - name: Transformers
+        description: ''
+        percent: 85
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -147,8 +192,8 @@ skills:
 languages:
   - name: French
     percent: 100
-  - name: English
-    percent: 80
+  - name: English (Linguaskill 180+)
+    percent: 90
   - name: German
     percent: 25
   - name: Spanish

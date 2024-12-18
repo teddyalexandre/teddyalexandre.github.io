@@ -231,6 +231,10 @@ languages:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+--- -->
 
-I am currently looking for an early-career Data Scientist / AI Engineer position, where I want to contribute to cutting-edge and stimulating projects in a dynamic environment. -->
+Hey there 🤗 
+
+I am Teddy Alexandre, a former postgraduate student looking for his first professional experience in the exciting domain of Artificial Intelligence. I recently graduated from the master of engineering from ENSIIE (Applied Mathematics major) and the master of science Mathematics, Vision, Learning from ENS Paris-Saclay. I am interested about everything that encompasses AI, especially the domain of natural language processing and large language models. Besides that, I enjoy practicing sport in my free time (mostly weightlifting and running), learning new languages (currently on Spanish) or listening to music.
+
+Feel free to reach out !

@@ -176,22 +176,22 @@ skills:
         description: ''
         percent: 85
 
-hobbies:
-  color: '#eeac02'
-  color_border: '#f0bf23'
-  items:
-    - name: Weightlifting
-      description: ''
-      percent: 90
-      icon: 🏋
-    - name: Running
-      description: ''
-      percent: 90
-      icon: 🏃
-    - name: Music
-      description: ''
-      percent: 90
-      icon: 🎧
+# hobbies:
+#   color: '#eeac02'
+#   color_border: '#f0bf23'
+#   items:
+#     - name: Weightlifting
+#       description: ''
+#       percent: 90
+#       icon: 🏋
+#     - name: Running
+#       description: ''
+#       percent: 90
+#       icon: 🏃
+#     - name: Music
+#       description: ''
+#       percent: 90
+#       icon: 🎧
 
 languages:
   - name: French

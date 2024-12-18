@@ -45,8 +45,4 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: hobbies
-    content:
-      title: Hobbies
-      username: admin
 ---

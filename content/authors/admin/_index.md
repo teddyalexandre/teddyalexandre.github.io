@@ -17,12 +17,16 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Looking for a position as Data Scientist / ML Engineer
+role: Looking for an early career Data Scientist / ML Engineer / AI Research Engineer position
+
+location:
+  - name: Paris, FRANCE
+    icon: icons/location.svg
 
 # Organizations/Affiliations to display in Biography blox (to be changed)
 organizations:
   - name: TBD
-    url: https://www.tbd.com/
+    #url: https://www.tbd.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -172,22 +176,22 @@ skills:
         description: ''
         percent: 85
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Weightlifting
-        description: ''
-        percent: 90
-        icon: 🏋
-      - name: Running
-        description: ''
-        percent: 90
-        icon: 🏃
-      - name: Music
-        description: ''
-        percent: 90
-        icon: 🎧
+hobbies:
+  color: '#eeac02'
+  color_border: '#f0bf23'
+  items:
+    - name: Weightlifting
+      description: ''
+      percent: 90
+      icon: 🏋
+    - name: Running
+      description: ''
+      percent: 90
+      icon: 🏃
+    - name: Music
+      description: ''
+      percent: 90
+      icon: 🎧
 
 languages:
   - name: French

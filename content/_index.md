@@ -37,12 +37,16 @@ sections:
     content:
       title: Skills
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+  # - block: awards
+  #   content:
+  #     title: Awards
+  #     username: admin
   - block: languages
     content:
       title: Languages
+      username: admin
+  - block: hobbies
+    content:
+      title: Hobbies
       username: admin
 ---

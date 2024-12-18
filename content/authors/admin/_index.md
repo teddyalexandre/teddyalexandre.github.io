@@ -19,14 +19,10 @@ superuser: true
 # Role/position/tagline
 role: Looking for an early career Data Scientist / ML Engineer / AI Research Engineer position
 
-location:
-  - name: Paris, FRANCE
-    icon: icons/location.svg
-
 # Organizations/Affiliations to display in Biography blox (to be changed)
 organizations:
-  - name: TBD
-    #url: https://www.tbd.com/
+  - name: TBD, Paris, FRANCE
+    url: https://www.tbd.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

@@ -3,11 +3,11 @@
 title: Teddy Alexandre
 
 # Name pronunciation (optional)
-name_pronunciation: Teddy Alexandre
+# name_pronunciation: Teddy Alexandre
 
 # Full name (for SEO)
-first_name: Teddy
-last_name: Alexandre
+# first_name: Teddy
+# last_name: Alexandre
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Junior Data Scientist 
+role: Looking for a position as Data Scientist / ML Engineer
 
 # Organizations/Affiliations to display in Biography blox (to be changed)
 organizations:
@@ -40,7 +40,7 @@ profiles:
     url: https://www.instagram.com/ted_alexx
 
 education:
-  - area: MSc Mathematics, Vision, Learning (MVA)
+  - area: Master of science (MSc) Mathematics, Vision, Learning (MVA)
     institution: Ecole Normale Supérieure Paris-Saclay
     date_start: 2023-09-30
     date_end: 2024-09-30
@@ -55,7 +55,7 @@ education:
       - Computer Vision
       - Reinforcement Learning
 
-  - area: MEng Applied Mathematics
+  - area: Master of engineering (MEng) Applied Mathematics
     institution: Ecole Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise
     date_start: 2021-09-01
     date_end: 2024-09-30
@@ -81,12 +81,11 @@ work:
     summary: |2-
       Topic : Domain adaptation of large language models
 
-      Responsabilities include:
-      - Explored literature about state-of-the-art methods (LoRA, prefix-tuning...)
-      - Designed a fine-tuning process to compare prefix-tuning with classic fine-tuning, on one-domain
+      - Conducted a literature review about state-of-the-art methods for parameter-efficient fine-tuning (LoRA, prefix-tuning...)
+      - Designed a fine-tuning process to compare prefix-tuning with classic fine-tuning (single domain approach)
       - Extended the previous experiments in a multi-domain approach
 
-  - position: ML Intern
+  - position: Research Intern
     company_name: Synchrotron SOLEIL
     company_url: ''
     company_logo: ''
@@ -95,10 +94,9 @@ work:
     summary: |
       Topic : Prediction of space group of mixture of powder crystals
 
-      Responsibilities include:
-      - Extracted a dataset of synthetic crystals from MaterialsProject open-source website
-      - Designed a Convolutional Neural Network to process the diffraction spectrums of each crystal
-      - Optimized the hyperparameters to enhance performance
+      - Extracted a dataset of synthetic crystals from the MaterialsProject open-source database
+      - Designed a convolutional neural network to process the diffraction spectrums of each crystal
+      - Optimized the hyperparameters to enhance model performance
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -107,9 +105,9 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 85
+        percent: 90
         icon: devicon/python
-      - name: RStudio
+      - name: R
         description: ''
         percent: 75
         icon: devicon/rstudio
@@ -117,6 +115,18 @@ skills:
         description: ''
         percent: 80
         icon: devicon/pytorch
+      - name: SQL
+        description: ''
+        percent: 75
+      - name: Shell
+        description: ''
+        percent: 75
+      - name: C++
+        description: ''
+        percent: 70
+      - name: HTML/CSS
+        description: ''
+        percent: 70
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

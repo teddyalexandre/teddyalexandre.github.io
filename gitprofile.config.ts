@@ -51,7 +51,7 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio | Teddy Alexandre', description: 'A passionate Data Scientist, building innovative solutions related to AI agents. I love to explore new technologies and develop creative applications that make a difference.', imageURL: '' },
+  seo: { title: 'Portfolio | Teddy Alexandre', description: '', imageURL: '' },
   social: {
     linkedin: 'teddy-alexandre-576a48190',
     x: '',

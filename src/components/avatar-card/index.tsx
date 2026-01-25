@@ -76,6 +76,16 @@ const AvatarCard: React.FC<AvatarCardProps> = ({
               : profile.bio}
           </div>
         </div>
+        {/* Added description above resume button */}
+        {loading || !profile ? (
+          skeleton({ widthCls: 'w-64', heightCls: 'h-5' })
+        ) : (
+          <div className="mt-3 text-center text-sm text-base-content opacity-80 px-8">
+            A passionate Data Scientist, building innovative solutions related to
+            AI agents. I love to explore new technologies and develop creative
+            applications that make a difference.
+          </div>
+        )}
         {resumeFileUrl &&
           (loading ? (
             <div className="mt-6">
